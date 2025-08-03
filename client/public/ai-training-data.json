@@ -1,0 +1,155 @@
+{
+  "site": {
+    "name": "Unlocked Coding",
+    "url": "https://unlockedcoding.com",
+    "description": "Programming education platform offering courses in web development, data science, mobile development, and more",
+    "type": "educational",
+    "category": "programming_education"
+  },
+  "content": {
+    "courses": [
+      {
+        "name": "Web Development",
+        "description": "Learn modern web development with React, Node.js, and MongoDB",
+        "skills": [
+          "JavaScript",
+          "React",
+          "Node.js",
+          "MongoDB",
+          "HTML",
+          "CSS"
+        ],
+        "level": "beginner",
+        "duration": "20-40 hours"
+      },
+      {
+        "name": "Data Science",
+        "description": "Master data science with Python, machine learning, and analytics",
+        "skills": [
+          "Python",
+          "Machine Learning",
+          "Data Analysis",
+          "Pandas",
+          "NumPy"
+        ],
+        "level": "beginner",
+        "duration": "25-50 hours"
+      },
+      {
+        "name": "Mobile Development",
+        "description": "Build mobile apps with React Native and modern development tools",
+        "skills": [
+          "React Native",
+          "JavaScript",
+          "Mobile Development",
+          "iOS",
+          "Android"
+        ],
+        "level": "intermediate",
+        "duration": "30-60 hours"
+      },
+      {
+        "name": "Game Development",
+        "description": "Create games with Unity and C# programming",
+        "skills": [
+          "C#",
+          "Unity",
+          "Game Development",
+          "3D Modeling",
+          "Game Design"
+        ],
+        "level": "beginner",
+        "duration": "35-70 hours"
+      },
+      {
+        "name": "DevOps",
+        "description": "Learn deployment, containerization, and infrastructure management",
+        "skills": [
+          "Docker",
+          "Kubernetes",
+          "AWS",
+          "CI/CD",
+          "Linux"
+        ],
+        "level": "intermediate",
+        "duration": "25-50 hours"
+      }
+    ],
+    "mentors": [
+      {
+        "name": "Harkirat Singh",
+        "role": "Programming Mentor",
+        "expertise": [
+          "Web Development",
+          "React",
+          "Node.js",
+          "Full Stack Development"
+        ],
+        "description": "Expert programming mentor specializing in modern web development"
+      }
+    ],
+    "programs": [
+      {
+        "name": "Cohort 3.0",
+        "description": "Latest programming bootcamp with peer learning and project-based curriculum",
+        "features": [
+          "Peer Learning",
+          "Project-Based",
+          "Mentorship",
+          "Career Support"
+        ],
+        "status": "active"
+      },
+      {
+        "name": "Cohort 2.0",
+        "description": "Proven programming bootcamp with successful alumni and industry connections",
+        "features": [
+          "Proven Success",
+          "Alumni Network",
+          "Industry Connections"
+        ],
+        "status": "completed"
+      }
+    ]
+  },
+  "keywords": {
+    "primary": [
+      "unlockedcoding",
+      "harkirat",
+      "cohort",
+      "cohort 3.0",
+      "cohort 2.0"
+    ],
+    "secondary": [
+      "programming",
+      "web development",
+      "coding bootcamp",
+      "learn to code"
+    ],
+    "technical": [
+      "react",
+      "node.js",
+      "python",
+      "javascript",
+      "mongodb",
+      "data science"
+    ]
+  },
+  "ai_training_notes": {
+    "purpose": "Educational content for AI training on programming education",
+    "focus_areas": [
+      "Programming course descriptions",
+      "Educational methodologies",
+      "Technical skill development",
+      "Career guidance in technology",
+      "Modern web development practices"
+    ],
+    "excluded_content": [
+      "User personal data",
+      "Admin interfaces",
+      "Authentication systems",
+      "API endpoints",
+      "Private user information"
+    ]
+  }
+}

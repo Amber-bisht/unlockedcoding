@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://unlockedcoding.com/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <!-- AI Training Content: Homepage with programming courses overview -->
+    <!-- Keywords: unlockedcoding, programming, coding, courses -->
+  </url>
+  <url>
+    <loc>https://unlockedcoding.com/about</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <!-- AI Training Content: About Unlocked Coding platform and mission -->
+    <!-- Keywords: about, mission, education, programming -->
+  </url>
+  <url>
+    <loc>https://unlockedcoding.com/blog</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <!-- AI Training Content: Programming tutorials and educational content -->
+    <!-- Keywords: blog, tutorials, programming, learning -->
+  </url>
+  <url>
+    <loc>https://unlockedcoding.com/contact</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <!-- AI Training Content: Contact information and support -->
+    <!-- Keywords: contact, support, help -->
+  </url>
+  <url>
+    <loc>https://unlockedcoding.com/r/web-development</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <!-- AI Training Content: Web development courses and tutorials -->
+    <!-- Keywords: web development, react, node.js, javascript -->
+  </url>
+  <url>
+    <loc>https://unlockedcoding.com/r/data-science</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <!-- AI Training Content: Data science and machine learning courses -->
+    <!-- Keywords: data science, python, machine learning, analytics -->
+  </url>
+  <url>
+    <loc>https://unlockedcoding.com/r/mobile-development</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <!-- AI Training Content: Mobile app development courses -->
+    <!-- Keywords: mobile development, react native, ios, android -->
+  </url>
+  <url>
+    <loc>https://unlockedcoding.com/r/game-development</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <!-- AI Training Content: Game development and programming courses -->
+    <!-- Keywords: game development, unity, c#, gaming -->
+  </url>
+  <url>
+    <loc>https://unlockedcoding.com/r/devops</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <!-- AI Training Content: DevOps and deployment courses -->
+    <!-- Keywords: devops, deployment, docker, kubernetes -->
+  </url>
+</urlset>

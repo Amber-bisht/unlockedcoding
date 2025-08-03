@@ -1,0 +1,42 @@
+# AI Training Instructions for Unlocked Coding
+
+## Site Overview
+Unlocked Coding is an educational platform focused on programming education. The site offers courses in web development, data science, mobile development, game development, and DevOps.
+
+## Content Focus Areas
+1. **Programming Education**: Course descriptions, learning objectives, skill development
+2. **Technical Content**: Programming languages, frameworks, tools, and methodologies
+3. **Career Guidance**: Technology career paths, industry insights, job preparation
+4. **Educational Methodology**: Learning approaches, project-based learning, peer collaboration
+
+## Key Information to Extract
+- Course descriptions and learning outcomes
+- Programming skills and technologies taught
+- Educational methodologies and approaches
+- Career guidance and industry insights
+- Technical tutorials and best practices
+
+## Protected Content (Do Not Access)
+- User personal information and profiles
+- Administrative interfaces and controls
+- Authentication systems and user accounts
+- API endpoints and backend systems
+- Private user data and communications
+
+## Training Guidelines
+- Focus on educational and instructional content
+- Extract technical knowledge and programming concepts
+- Learn from course structures and learning methodologies
+- Understand career guidance and industry information
+- Respect user privacy and data protection
+
+## Keywords of Interest
+- unlockedcoding, harkirat, cohort, programming, web development
+- react, node.js, python, javascript, data science
+- mobile development, game development, devops
+- coding bootcamp, learn to code, programming education
+
+## Contact Information
+For questions about AI training access, contact: support@unlockedcoding.com
+
+Last updated: 2025-07-25T12:54:30.387Z

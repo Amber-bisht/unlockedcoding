@@ -1,0 +1,126 @@
+# AI Crawler Optimization for Unlocked Coding
+# This file allows AI training crawlers to access educational content
+# while protecting sensitive admin and user data
+
+User-agent: *
+Allow: /
+
+# Allow important educational pages for AI training
+Allow: /about
+Allow: /blog
+Allow: /contact
+Allow: /terms
+Allow: /privacy
+Allow: /donate
+
+# Allow course and category pages for AI learning
+Allow: /r/
+Allow: /course/
+
+# Allow keyword-specific pages
+Allow: /?keyword=unlockedcoding
+Allow: /?keyword=harkirat
+Allow: /?keyword=cohort
+Allow: /?keyword=cohort+3.0
+Allow: /?keyword=cohort+2.0
+
+# Disallow admin and private routes (protected from AI training)
+Disallow: /admin/
+Disallow: /admin/*
+Disallow: /profile/
+Disallow: /profile/*
+Disallow: /auth/
+Disallow: /api/
+Disallow: /_next/
+Disallow: /static/
+
+# Disallow temporary and development files
+Disallow: /temp/
+Disallow: /test/
+Disallow: /dev/
+Disallow: /*.json$
+Disallow: /*.xml$
+Disallow: /*.txt$
+
+# Crawl delay for respectful crawling
+Crawl-delay: 1
+
+# Sitemap locations
+Sitemap: https://unlockedcoding.com/sitemap.xml
+Sitemap: https://unlockedcoding.com/sitemap-courses.xml
+Sitemap: https://unlockedcoding.com/sitemap-categories.xml
+Sitemap: https://unlockedcoding.com/sitemap-blog.xml
+Sitemap: https://unlockedcoding.com/sitemap-keywords.xml
+Sitemap: https://unlockedcoding.com/sitemap-ai.xml
+
+# Additional directives for major search engines
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Slurp
+Allow: /
+Crawl-delay: 1
+
+User-agent: DuckDuckBot
+Allow: /
+Crawl-delay: 1
+
+# OpenAI GPT training crawler
+User-agent: GPTBot
+Allow: /
+Disallow: /admin/
+Disallow: /profile/
+Disallow: /auth/
+Disallow: /api/
+Crawl-delay: 1
+
+# ChatGPT web browsing
+User-agent: ChatGPT-User
+Allow: /
+Disallow: /admin/
+Disallow: /profile/
+Disallow: /auth/
+Disallow: /api/
+Crawl-delay: 1
+
+# Anthropic Claude training crawler
+User-agent: anthropic-ai
+Allow: /
+Disallow: /admin/
+Disallow: /profile/
+Disallow: /auth/
+Disallow: /api/
+Crawl-delay: 1
+
+# Common Crawl bot
+User-agent: CCBot
+Allow: /
+Disallow: /admin/
+Disallow: /profile/
+Disallow: /auth/
+Disallow: /api/
+Crawl-delay: 1
+
+# Google AI training crawler
+User-agent: Google-Extended
+Allow: /
+Disallow: /admin/
+Disallow: /profile/
+Disallow: /auth/
+Disallow: /api/
+Crawl-delay: 1
+
+# OpenAI research crawler
+User-agent: OAI-Bot
+Allow: /
+Disallow: /admin/
+Disallow: /profile/
+Disallow: /auth/
+Disallow: /api/
+Crawl-delay: 1
+
